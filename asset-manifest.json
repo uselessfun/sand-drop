@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sand-drop/static/css/main.4bf33128.css",
+    "main.js": "/sand-drop/static/js/main.5fd89073.js",
+    "index.html": "/sand-drop/index.html",
+    "main.4bf33128.css.map": "/sand-drop/static/css/main.4bf33128.css.map",
+    "main.5fd89073.js.map": "/sand-drop/static/js/main.5fd89073.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bf33128.css",
+    "static/js/main.5fd89073.js"
+  ]
+}
